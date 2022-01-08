@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="500pt"
+   height="200pt"
+   viewBox="0 0 666.6667 266.66669"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="home.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.41766087"
+     inkscape:cx="192.74011"
+     inkscape:cy="138.86865"
+     inkscape:window-width="1294"
+     inkscape:window-height="888"
+     inkscape:window-x="406"
+     inkscape:window-y="85"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     showborder="true"
+     width="400pt"
+     units="pt"
+     inkscape:snap-bbox="true"
+     inkscape:snap-global="true" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient11943"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop11941" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="gradient_1">
+      <stop
+         style="stop-color:#0099ff;stop-opacity:1;"
+         offset="0"
+         id="stop7990" />
+      <stop
+         style="stop-color:#0099ff;stop-opacity:0;"
+         offset="1"
+         id="stop7992" />
+    </linearGradient>
+    <rect
+       x="11.971435"
+       y="26.337156"
+       width="527.94031"
+       height="64.645752"
+       id="rect82005" />
+    <rect
+       x="9.5771484"
+       y="28.731443"
+       width="280.13159"
+       height="74.2229"
+       id="rect77868" />
+    <rect
+       x="-22.745728"
+       y="3.5914304"
+       width="164.00867"
+       height="63.448605"
+       id="rect74854" />
+    <rect
+       x="4.7885742"
+       y="15.562866"
+       width="273.67761"
+       height="87.766739"
+       id="rect60259" />
+    <rect
+       x="454.11771"
+       y="347.41245"
+       width="945.45819"
+       height="327.56033"
+       id="rect1111" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#gradient_1"
+       id="linearGradient7996"
+       x1="13.689452"
+       y1="63.009926"
+       x2="844.74298"
+       y2="60.615639"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#gradient_1"
+       id="linearGradient12299"
+       x1="644.45746"
+       y1="244.0515"
+       x2="385.87448"
+       y2="145.88574"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:url(#linearGradient12299);stroke-width:13.3333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect11815"
+       width="213.09154"
+       height="217.88011"
+       x="431.36594"
+       y="26.171387" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="mix-blend-mode:normal">
+    <text
+       xml:space="preserve"
+       id="text1109"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;font-variant-ligatures:none;white-space:pre;shape-inside:url(#rect1111)" />
+    <text
+       xml:space="preserve"
+       id="text74852"
+       style="font-size:24px;line-height:1.25;font-family:'Apple Symbols';-inkscape-font-specification:'Apple Symbols, Normal';font-variant-ligatures:none;white-space:pre;shape-inside:url(#rect74854)" />
+    <text
+       xml:space="preserve"
+       id="text77866"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.3333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;font-variant-ligatures:none;white-space:pre;shape-inside:url(#rect77868)" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;line-height:1.25;font-family:'Apple Symbols';-inkscape-font-specification:'Apple Symbols, Normal';font-variant-ligatures:none"
+       x="58.66003"
+       y="70.63147"
+       id="text78820"><tspan
+         sodipodi:role="line"
+         id="tspan78818"
+         x="58.66003"
+         y="70.63147" /></text>
+    <text
+       xml:space="preserve"
+       id="text82003"
+       style="font-size:53.3333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:none;white-space:pre;shape-inside:url(#rect82005);opacity:1;fill:url(#linearGradient7996);fill-opacity:1"
+       transform="translate(8,84)"><tspan
+         x="11.970703"
+         y="76.486481"
+         id="tspan14491">std::cin &gt;&gt; посетить</tspan></text>
+  </g>
+</svg>
