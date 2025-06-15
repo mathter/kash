@@ -1,0 +1,11 @@
+services:
+  jekyll:
+    image: mathter/jekyll
+    container_name: jekyll
+    command: bash -c 'source ~/.bashrc && jekyll serve -s /mnt --host=0.0.0.0'
+    ports:
+      - 0.0.0.0:4000:4000
+    volumes:
+      - ..:/mnt
+    build:
+      dockerfile: ./Dockerfile
