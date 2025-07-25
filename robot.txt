@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /tmp
+Disallow: /private
+Disallow: /*.pdf$
+
+Sitemap: https://kashirsky.pro/sitemap.xml
+Host: https://kashirsky.pro
+
+# Скорость сканирования (запросов в секунду)
+Crawl-delay: 10
+
+# Указание главного зеркала (убирает дубли)
+User-agent: Yandex
+Clean-param: utm_source&utm_medium&utm_campaign
