@@ -4,11 +4,9 @@ ENV RUN_MODE=serve
 RUN pacman -Syu --noconfirm
 RUN pacman -Sy --noconfirm ruby base-devel ruby-erb
 RUN pacman -Sy --noconfirm wget
-RUN gem install bundler jekyll
+RUN gem install bundler jekyll jekyll-sitemap
 
 WORKDIR /root
-COPY run.sh .
-RUN chmod 777 ~/run.sh
 
 RUN echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
 RUN echo 'export GEM_HOME='$(ruby -e 'puts Gem.user_dir')'' >> ~/.bashrc
