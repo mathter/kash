@@ -15,4 +15,4 @@ RUN source ~/.bashrc
 
 
 EXPOSE 4000
-CMD source ~/.bashrc && bash -c 'echo DDD'
+CMD source ~/.bashrc && bash -c 'echo Start'

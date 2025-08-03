@@ -3,7 +3,6 @@ permalink: /
 layout: default_banner
 title: "Alexander Kashirsky"
 ---
-
 <section id="about">
     <div class="inner">
         <article>
