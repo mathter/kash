@@ -2,6 +2,24 @@
 permalink: development
 layout: default
 title: "Разработка ПО"
+schema: {
+  "@context": "https://schema.org",
+  "@type": [
+    "Person",
+    "WebSite"
+  ],
+  "name": "Alexander Kashirsky",
+  "url": "https://kashirsky.pro",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://kashirsky.pro"
+  },
+  "description": "Java-разработчик и архитектор ПО с опытом создания высоконагруженных систем",
+  "jobTitle": "Senior Java Developer",
+  "sameAs": [
+    "https://github.com/mathter"
+  ]
+}
 ---
 
 <section id="languages">
